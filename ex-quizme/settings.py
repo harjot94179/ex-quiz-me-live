@@ -75,7 +75,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'lets_quiz.wsgi.application'
+WSGI_APPLICATION = 'ex-quizme.wsgi.application'
 
 
 # Database
